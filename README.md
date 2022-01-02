@@ -1,4 +1,4 @@
-### metapool.in
+# METAPOOL.IN
 
 
-## How it works? 
+  ## Explanation
